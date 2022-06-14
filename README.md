@@ -1,3 +1,3 @@
 # The Whiskey Drop
-- Bootatrap demonstration
+- Bootstrap demonstration
 - https://arronbeale.github.io/bootstrap/
